@@ -1,0 +1,5 @@
+a=int(input ("Podaj rok w którym się urodziłeś"))
+if a<=2015:
+	print("Potrzebujemy Cię w naszym składzie")
+else:
+	print("Nie potrzebujemy Cię w naszym składzie")
