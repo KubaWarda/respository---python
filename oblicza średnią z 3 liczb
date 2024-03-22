@@ -1,0 +1,4 @@
+a = int(input("Podaj 1 liczbę"))
+b = int(input("Podaj 2 liczbę"))
+c = int(input("Podaj 3 liczbę"))
+print ((a+b+c)/3)
