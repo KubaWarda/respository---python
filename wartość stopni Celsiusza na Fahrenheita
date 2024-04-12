@@ -1,0 +1,3 @@
+c = int (input("Podaj temperaturę"))
+print ("Temp. w stopniach Fahrenheita wynosi")
+print ((9/5)*c+32)
