@@ -1,0 +1,3 @@
+a = input ("Podaj imię")
+b = input ("Podaj nazwisko")
+print ("witaj", b,a)
