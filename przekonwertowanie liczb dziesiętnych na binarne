@@ -1,0 +1,6 @@
+a = int (input())
+w = " "
+while a >0:
+    w = w + str (a%2)
+    a = int (a/2)
+print (w[::-1])
